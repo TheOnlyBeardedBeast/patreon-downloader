@@ -1,0 +1,6 @@
+obj
+bin
+patreon-downloads/*.zip
+patreon-downloads/*.pdf
+patreon-downloads/*.jpg
+.local-chromium
